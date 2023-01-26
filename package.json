@@ -1,0 +1,14 @@
+{
+  "name": "chatgpt-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/The-Howdy-Studios/chatgpt-discord.git",
+  "author": "Theo Roque <theoroque95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.4",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
